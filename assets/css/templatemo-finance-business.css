@@ -1321,6 +1321,7 @@ footer .contact-form button.filled-button:hover {
 		padding: 15px 0px;
 		color: #1e1e1e!important;
 	}
+	h4{font-size:35px}
 	.navbar .navbar-nav .nav-link:hover,
 	.navbar .navbar-nav .active>.nav-link,
 	.navbar .navbar-nav .nav-link.active,
@@ -1330,3 +1331,5 @@ footer .contact-form button.filled-button:hover {
 		border-bottom: none!important;
 	}
 }
+
+
