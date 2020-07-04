@@ -1322,6 +1322,7 @@ footer .contact-form button.filled-button:hover {
 		color: #1e1e1e!important;
 	}
 	h4{font-size:20px}
+	image{ height:30px;width:30px;}
 	.navbar .navbar-nav .nav-link:hover,
 	.navbar .navbar-nav .active>.nav-link,
 	.navbar .navbar-nav .nav-link.active,
