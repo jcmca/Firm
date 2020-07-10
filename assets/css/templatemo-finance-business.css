@@ -363,7 +363,7 @@ header .navbar {
 
 .blocks-box,
 .slick-slider {
-  margin: 0;
+  margin: 0;			
   padding: 0!important;
 }
 
@@ -380,15 +380,15 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/slide_01.jpeg);
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(../images/slide_02.jpg);
+	background-image: url(../images/slide_02.jpeg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/slide_03.jpg);
+	background-image: url(../images/slide_03.jpeg);
 }
 
 .Modern-Slider .NextArrow{
